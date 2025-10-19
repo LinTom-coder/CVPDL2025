@@ -1,5 +1,5 @@
 # CVPDL2025
-This is CVPDL homework in 2025 (NTU).
+This is CVPDL homework in 2025.
 ## HW1
 object detection
 ## HW2
