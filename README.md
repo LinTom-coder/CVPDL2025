@@ -5,4 +5,5 @@ object detection
 ## HW2
 Long-tail object detection for drone-based counting
 ## HW3
+handwritten digit generated via diffusion model
 ## Final Project
